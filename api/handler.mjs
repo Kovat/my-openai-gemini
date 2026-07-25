@@ -15,7 +15,6 @@ export const config = {
     "cle1",
     "cpt1",
     "dub1",
-    "dxb1",
     "fra1",
     "gru1",
     //"hkg1",
